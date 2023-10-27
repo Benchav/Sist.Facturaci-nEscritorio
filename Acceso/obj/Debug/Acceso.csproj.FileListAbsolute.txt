@@ -1,0 +1,6 @@
+C:\JB\C#2\alici\Acceso\obj\Debug\Acceso.csproj.AssemblyReference.cache
+C:\JB\C#2\alici\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\JB\C#2\alici\Acceso\bin\Debug\Acceso.dll
+C:\JB\C#2\alici\Acceso\bin\Debug\Acceso.pdb
+C:\JB\C#2\alici\Acceso\obj\Debug\Acceso.dll
+C:\JB\C#2\alici\Acceso\obj\Debug\Acceso.pdb

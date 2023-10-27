@@ -1,0 +1,11 @@
+C:\JB\C#2\alici\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\JB\C#2\alici\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\JB\C#2\alici\BAL\bin\Debug\BAL.dll
+C:\JB\C#2\alici\BAL\bin\Debug\BAL.pdb
+C:\JB\C#2\alici\BAL\bin\Debug\Acceso.dll
+C:\JB\C#2\alici\BAL\bin\Debug\BEL.dll
+C:\JB\C#2\alici\BAL\bin\Debug\Acceso.pdb
+C:\JB\C#2\alici\BAL\bin\Debug\BEL.pdb
+C:\JB\C#2\alici\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\JB\C#2\alici\BAL\obj\Debug\BAL.dll
+C:\JB\C#2\alici\BAL\obj\Debug\BAL.pdb

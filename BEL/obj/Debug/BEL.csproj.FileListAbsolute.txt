@@ -1,0 +1,6 @@
+C:\JB\C#2\alici\BEL\bin\Debug\BEL.dll
+C:\JB\C#2\alici\BEL\bin\Debug\BEL.pdb
+C:\JB\C#2\alici\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\JB\C#2\alici\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\JB\C#2\alici\BEL\obj\Debug\BEL.dll
+C:\JB\C#2\alici\BEL\obj\Debug\BEL.pdb
